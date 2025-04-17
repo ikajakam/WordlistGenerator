@@ -31,6 +31,6 @@ go install github.com/tomnomnom/waybackurls@latest
 
 ```bash
 chmod +x wordlistgenerator.sh
-./wordlistgenerator.sh
+./wordlistgenerator.sh https://example.com
 ```
 
