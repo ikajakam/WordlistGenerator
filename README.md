@@ -21,8 +21,7 @@ Make sure the following tools are installed and accessible:
 - [`cewl`](https://github.com/digininja/CeWL)
 - [`waybackurls`](https://github.com/tomnomnom/waybackurls)
 
-Install using:
-
+Install using
 ```bash
 sudo gem install cewl
 ```
