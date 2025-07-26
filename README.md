@@ -1,20 +1,20 @@
-# 🛠️ Wordlist Generator from Live Website + Wayback URLs
+# Wordlist Generator from Live Website + Wayback URLs
 
 A Bash script to generate a custom wordlist for a target domain by combining words scraped from the live site using **CeWL** and historical URLs fetched from the **Wayback Machine** using **waybackurls**.
 
 This is useful for **directory brute-forcing**, **parameter fuzzing**, or general **reconnaissance**.
 
 
-## 📦 Features
+## Features
 
-- ✅ Scrapes visible text from the target site using CeWL  
-- ✅ Extracts keywords from archived URLs using waybackurls  
-- ✅ Cleans and merges wordlists  
-- ✅ Outputs a unique, sorted wordlist ready for use  
+-  Scrapes visible text from the target site using CeWL  
+-  Extracts keywords from archived URLs using waybackurls  
+-  Cleans and merges wordlists  
+-  Outputs a unique, sorted wordlist ready for use  
 
 ---
 
-## 🧰 Prerequisites
+## Prerequisites
 
 Make sure the following tools are installed and accessible:
 
@@ -27,7 +27,7 @@ Install using:
 sudo gem install cewl
 go install github.com/tomnomnom/waybackurls@latest
 ```
-### ✅ Usage
+### Usage
 
 ```bash
 chmod +x wordlistgenerator.sh
