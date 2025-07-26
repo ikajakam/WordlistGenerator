@@ -14,7 +14,7 @@ This is useful for **directory brute-forcing**, **parameter fuzzing**, or genera
 
 ### Prerequisites
 
-Make sure the following tools are installed and accessible:
+Make sure the following tools are installed and accessible :
 
 - [`cewl`](https://github.com/digininja/CeWL)
 - [`waybackurls`](https://github.com/tomnomnom/waybackurls)
