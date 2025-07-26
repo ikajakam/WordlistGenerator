@@ -25,7 +25,6 @@ Install using:
 
 ```bash
 sudo gem install cewl
-go install github.com/tomnomnom/waybackurls@latest
 ```
 
 ```bash
