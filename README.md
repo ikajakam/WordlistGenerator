@@ -27,6 +27,12 @@ Install using:
 sudo gem install cewl
 go install github.com/tomnomnom/waybackurls@latest
 ```
+
+```bash
+go install github.com/tomnomnom/waybackurls@latest
+```
+
+
 ### Usage
 
 ```bash
